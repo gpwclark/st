@@ -3,7 +3,6 @@ From: cybvik <mail@cybvik.xyz>
 Date: Sun, 3 Jul 2022 04:28:11 +0200
 Subject: [PATCH] Applied Cyberpunk-Neon colorscheme
 
----
  config.def.h | 49 ++++++++++++++++++++++++-------------------------
  1 file changed, 24 insertions(+), 25 deletions(-)
 
@@ -79,6 +78,3 @@ index 91ab8ca..20b92ae 100644
  
  /*
   * Default shape of cursor
--- 
-2.37.0
-
